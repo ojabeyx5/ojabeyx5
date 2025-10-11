@@ -4,11 +4,9 @@
 
 - [Custom](./custom/notes.md)
 
-  - [Notes](./custom/notes.md)
+  - [Mormonism and Understanding](./custom/mormonism-and-understanding.md)
 
-  - [Mormonism and understanding](./custom/mormonism-and-understanding.md)
-
-  - [Atheism for believers](./custom/atheism-for-believers.md)
+  - [Atheism for Believers](./custom/atheism-for-believers.md)
 
   - [On Revelation](./custom/on-revelation.md)
 

@@ -7,3 +7,4 @@ src = "src"
 [output.html]
 # Set this to true to disable numeric section labels in the table of contents.
 no-section-label = true
+additional-js = ["./custom/custom.js"]
