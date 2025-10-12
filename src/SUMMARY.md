@@ -10,6 +10,10 @@
 
   - [On Revelation](./custom/on-revelation.md)
 
+  - [Robby](./custom/robby.md)
+
+  - [Scott](./custom/scott.md)
+
   - [More](./custom/more.md)
 
 - [About](./about.md)
